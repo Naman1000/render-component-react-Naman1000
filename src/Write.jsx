@@ -2,10 +2,10 @@
 
   import React from 'react'
 
-const index = () => {
+const Write = () => {
   return (
     <div><p>I am learning React. My life is getting better.</p></div>
   )
 }
 
-export default index
+export default Write
